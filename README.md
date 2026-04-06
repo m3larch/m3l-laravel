@@ -557,4 +557,5 @@ Este repositório existe para documentar e exemplificar a aplicação do padrão
 
 ## Licença
 
-Defina aqui a licença adotada para o projeto.
+Esta documentação está sob a licença
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
